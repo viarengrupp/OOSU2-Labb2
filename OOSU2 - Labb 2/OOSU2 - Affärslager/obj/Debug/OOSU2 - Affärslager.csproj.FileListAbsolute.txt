@@ -1,0 +1,6 @@
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\bin\Debug\OOSU2 - Affärslager.dll
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\bin\Debug\OOSU2 - Affärslager.pdb
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\obj\Debug\OOSU2 - Affärslager.csprojAssemblyReference.cache
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\obj\Debug\OOSU2 - Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\obj\Debug\OOSU2 - Affärslager.dll
+C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Affärslager\obj\Debug\OOSU2 - Affärslager.pdb

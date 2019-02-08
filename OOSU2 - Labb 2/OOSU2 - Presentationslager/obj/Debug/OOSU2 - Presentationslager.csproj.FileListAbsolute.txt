@@ -7,3 +7,13 @@ C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationsl
 C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.csproj.CoreCompileInputs.cache
 C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.exe
 C:\Users\Evil\Documents\GitHub\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.pdb
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\bin\Debug\OOSU2 - Presentationslager.exe.config
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\bin\Debug\OOSU2 - Presentationslager.exe
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\bin\Debug\OOSU2 - Presentationslager.pdb
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.csprojAssemblyReference.cache
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2___Presentationslager.LoggaIn.resources
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2___Presentationslager.Properties.Resources.resources
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.csproj.GenerateResource.cache
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.csproj.CoreCompileInputs.cache
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.exe
+C:\repos\OOSU2-Labb2\OOSU2 - Labb 2\OOSU2 - Presentationslager\obj\Debug\OOSU2 - Presentationslager.pdb

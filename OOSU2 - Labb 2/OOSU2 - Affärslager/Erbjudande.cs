@@ -8,6 +8,9 @@ namespace OOSU2___Affärslager
 {
     class Erbjudande
     {
+        // Unikt id.
+        private int erbjudandeID;
+
         // Information om erbjudandet.
         private string title;
         private string bio;

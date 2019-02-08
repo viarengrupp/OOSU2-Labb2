@@ -19,7 +19,7 @@ namespace OOSU2___Affärslager
         private string förnamn;
         private string efternamn;
         private string eMail;
-        private string teleNr;
+        private int teleNr;
 
         // Listor med personalens skapade erbjudanden och aktiviteter.
         private List<Erbjudande> SkapadeErbjudanden = new List<Erbjudande>();

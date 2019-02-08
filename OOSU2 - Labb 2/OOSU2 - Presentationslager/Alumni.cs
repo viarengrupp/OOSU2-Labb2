@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OOSU2___Presentationslager
 {
-    public partial class Form1 : Form
+    public partial class Alumni : Form
     {
-        public Form1()
+        public Alumni()
         {
             InitializeComponent();
         }

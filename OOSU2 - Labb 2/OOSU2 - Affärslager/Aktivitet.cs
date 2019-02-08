@@ -8,6 +8,9 @@ namespace OOSU2___Affärslager
 {
     class Aktivitet
     {
+        // Unikt id.
+        private int aktivitetID;
+
         // Information om aktiviteten.
         private string title;
         private string bio;

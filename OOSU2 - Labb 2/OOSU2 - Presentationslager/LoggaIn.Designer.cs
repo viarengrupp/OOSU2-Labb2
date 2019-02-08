@@ -41,15 +41,15 @@
             this.anvandareNamnTextBox.Name = "anvandareNamnTextBox";
             this.anvandareNamnTextBox.Size = new System.Drawing.Size(212, 22);
             this.anvandareNamnTextBox.TabIndex = 0;
-            this.anvandareNamnTextBox.TabStop = false;
+            this.anvandareNamnTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.anvandareNamnTextBox_KeyDown);
             // 
             // anvandareLosenordTextBox
             // 
             this.anvandareLosenordTextBox.Location = new System.Drawing.Point(184, 315);
             this.anvandareLosenordTextBox.Name = "anvandareLosenordTextBox";
             this.anvandareLosenordTextBox.Size = new System.Drawing.Size(212, 22);
-            this.anvandareLosenordTextBox.TabIndex = 0;
-            this.anvandareLosenordTextBox.TabStop = false;
+            this.anvandareLosenordTextBox.TabIndex = 1;
+            this.anvandareLosenordTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.anvandareLosenordTextBox_KeyDown);
             // 
             // anvandareNamnLabel
             // 
@@ -76,6 +76,7 @@
             this.loggaInButton.Name = "loggaInButton";
             this.loggaInButton.Size = new System.Drawing.Size(83, 34);
             this.loggaInButton.TabIndex = 6;
+            this.loggaInButton.TabStop = false;
             this.loggaInButton.Text = "Logga in";
             this.loggaInButton.UseVisualStyleBackColor = true;
             this.loggaInButton.Click += new System.EventHandler(this.loggaInButton_Click);

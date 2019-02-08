@@ -19,8 +19,28 @@ namespace OOSU2___Presentationslager
 
         private void loggaInButton_Click(object sender, EventArgs e)
         {
-            anvandareNamnTextBox.Focus();
-            
+            Alumni alumni = new Alumni();
+            alumni.Show();
+            this.Hide();
+        }
+
+
+        private void anvandareNamnTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            //Make it possible to press enter when sign in
+            if (e.KeyCode == Keys.Enter)
+            {
+                loggaInButton.PerformClick();
+            }
+        }
+
+        private void anvandareLosenordTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            //Make it possible to press enter when sign in
+            if (e.KeyCode == Keys.Enter)
+            {
+                loggaInButton.PerformClick();
+            }
         }
     }
 }

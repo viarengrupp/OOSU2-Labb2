@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOSU2___Affärslager
+namespace OOSU2___BusinessEntities
 {
     class Alumner
     {
@@ -32,7 +32,5 @@ namespace OOSU2___Affärslager
         // Listor på vilka aktiviteter och erbjudanden Alumnern har anmällt sig till.
         private List<Aktivitet> AnmäldaAktiviteter = new List<Aktivitet>();
         private List<Erbjudande> AnmäldaErbjudande = new List<Erbjudande>();
-
-
     }
 }

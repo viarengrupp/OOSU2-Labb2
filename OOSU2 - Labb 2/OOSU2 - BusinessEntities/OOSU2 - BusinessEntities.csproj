@@ -41,13 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aktivitet.cs" />
+    <Compile Include="Alumner.cs" />
+    <Compile Include="Erbjudande.cs" />
+    <Compile Include="Personal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\OOSU2 - Affärslager\OOSU2 - Affärslager.csproj">
-      <Project>{3d534719-f212-4a8f-81c6-813f72569565}</Project>
-      <Name>OOSU2 - Affärslager</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

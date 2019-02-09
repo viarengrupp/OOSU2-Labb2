@@ -41,11 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aktivitet.cs" />
-    <Compile Include="Alumner.cs" />
-    <Compile Include="Erbjudande.cs" />
-    <Compile Include="Personal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OOSU2 - BusinessEntities\OOSU2 - BusinessEntities.csproj">
+      <Project>{0985696e-66d3-4288-818c-b486e5e40268}</Project>
+      <Name>OOSU2 - BusinessEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OOSU2 - Datalager\OOSU2 - Datalager.csproj">
+      <Project>{818dbfe8-1e08-419e-8fb8-59030e1f50f6}</Project>
+      <Name>OOSU2 - Datalager</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

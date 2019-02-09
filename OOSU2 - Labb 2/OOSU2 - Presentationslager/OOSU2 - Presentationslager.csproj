@@ -46,23 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alumni.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Alumni.Designer.cs">
-      <DependentUpon>Alumni.cs</DependentUpon>
-    </Compile>
-    <Compile Include="LoggaIn.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="LoggaIn.Designer.cs">
-      <DependentUpon>LoggaIn.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="LoggaIn.resx">
-      <DependentUpon>LoggaIn.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -84,6 +69,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OOSU2 - Affärslager\OOSU2 - Affärslager.csproj">
+      <Project>{3d534719-f212-4a8f-81c6-813f72569565}</Project>
+      <Name>OOSU2 - Affärslager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OOSU2 - BusinessEntities\OOSU2 - BusinessEntities.csproj">
+      <Project>{0985696e-66d3-4288-818c-b486e5e40268}</Project>
+      <Name>OOSU2 - BusinessEntities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

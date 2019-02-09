@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOSU2___Affärslager
+namespace OOSU2___BusinessEntities
 {
     class Personal
     {
